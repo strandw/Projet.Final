@@ -48,7 +48,7 @@ Classe représentant un vaisseau spatial.
 Classe représentant une mission spatiale.
 
 - **Attributs** :
-  - `code` : Code unique de la mission.
+  - `code` : identifiant unique de la mission.
   - `description` : Description de la mission.
   - `dateDepart` : Date de départ.
   - `dateRetour` : Date de retour.
@@ -95,3 +95,4 @@ Classe représentant une réservation.
    - Affichage des informations des réservations.
 
 
+étant en alternance voila ce que j'ai pu réalisée avec un emploie du temps plutot chargé par rapport a d'habitude 
